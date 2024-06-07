@@ -151,7 +151,7 @@ export const projects = [
     name: "Duolingo-clone",
     description:
       "Developed this well-known application that help users learning easily new languages.",
-    link: "https://github.com/adrianhajdin/pricewise",
+    link: "https://github.com/dimitrispalamidas/duolingo-clone",
   },
   {
     iconUrl: spotify,
