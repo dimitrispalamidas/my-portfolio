@@ -151,7 +151,7 @@ export const projects = [
     name: "Duolingo-clone",
     description:
       "Developed this well-known application that help users learning easily new languages.",
-    link: "https://github.com/dimitrispalamidas/duolingo-clone",
+    link: "https://duolingo-clone-blue.vercel.app/",
   },
   {
     iconUrl: spotify,
@@ -159,7 +159,7 @@ export const projects = [
     name: "Spotify-clone",
     description:
       "Created a full-stack Spotify clone, a music application on which you can import and play your favourite songs.",
-    link: "https://github.com/dimitrispalamidas/spotify-clone",
+    link: "https://spotify-clone-delta-five.vercel.app/",
   },
   {
     iconUrl: messenger,
@@ -167,7 +167,7 @@ export const projects = [
     name: "Messenger-clone",
     description:
       "Designed and built a responsive messenger chat application, allowing users to share photos, create group chats and connect with friends in a familiar social media environment",
-    link: "https://github.com/dimitrispalamidas/messenger-clone",
+    link: "https://messenger-clone-tau-three.vercel.app/",
   },
   {
     iconUrl: wild_oasis,
@@ -175,7 +175,7 @@ export const projects = [
     name: "The Wild Oasis",
     description:
       "The Wild Oasis hotel management app is a full-featured React web application that allows hotel employees to manage cabins, bookings, and guests.",
-    link: "https://github.com/dimitrispalamidas/the-wild-oasis",
+    link: "https://the-wild-oasis-flame.vercel.app/",
   },
   {
     iconUrl: natours,
@@ -191,6 +191,6 @@ export const projects = [
     name: "GPT-3",
     description:
       "A fully-responsive website with modern UI/UX design, offering an impressive and user-friendly experience.",
-    link: "https://github.com/dimitrispalamidas/gpt-3",
+    link: "https://gpt-3-eosin-two.vercel.app/",
   },
 ];
