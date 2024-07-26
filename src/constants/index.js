@@ -1,4 +1,11 @@
-import { nereus, artemis, wild_oasis, natours, gpt_3 } from "../assets/images";
+import {
+  nereus,
+  artemis,
+  wild_oasis,
+  natours,
+  gpt_3,
+  promotion,
+} from "../assets/images";
 import {
   car,
   contact,
@@ -171,7 +178,7 @@ export const projects = [
   },
   {
     iconUrl: wild_oasis,
-    theme: "btn-back-pink",
+    theme: "btn-back-green",
     name: "The Wild Oasis",
     description:
       "The Wild Oasis hotel management app is a full-featured React web application that allows hotel employees to manage cabins, bookings, and guests.",
@@ -187,10 +194,18 @@ export const projects = [
   },
   {
     iconUrl: gpt_3,
-    theme: "btn-back-yellow",
+    theme: "btn-back-pink",
     name: "GPT-3",
     description:
       "A fully-responsive website with modern UI/UX design, offering an impressive and user-friendly experience.",
     link: "https://gpt-3-eosin-two.vercel.app/",
+  },
+  {
+    iconUrl: promotion,
+    theme: "btn-back-red",
+    name: "S.T.Promotion (Real Freelancing Project)",
+    description:
+      "A sleek and modern website designed for a dynamic promotion company that brings brands to life.",
+    link: "https://promotion-website.vercel.app/",
   },
 ];
